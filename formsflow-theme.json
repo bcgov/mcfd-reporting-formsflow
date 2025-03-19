@@ -11,7 +11,7 @@
     "--navbar-main-menu-active-bg-color": "#EDEBE9",
     "--navbar-main-menu-active-font-color": "#2D2D2D",
     "--navbar-bg-color": "#FFF",
-    "--custom-logo-path": "https://raw.githubusercontent.com/jimin-aot/mcfd-reporting-assets/main/images/BC_CFD_H_RGB_rev.png",
+    "--custom-logo-path": "https://raw.githubusercontent.com/bcgov/mcfd-reporting-formsflow/refs/heads/main/assets/BC_CFD_H_RGB_pos.png",
     "--custom-title": "MCFD Reporting",
     "--primary-btn-font-color": "white",
     "--primary-btn-bg-color": "#013366",
