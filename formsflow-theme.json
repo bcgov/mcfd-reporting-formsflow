@@ -32,6 +32,5 @@
     "--lg-btn-border-radius" : "6px", 
     "--default-danger-color": "#CE3E39",
     "--secondary-btn-hover-bg-color": "#EDEBE9",
-    "--primary-btn-hover-bg-color": "#1E5189",
-    "custom-chevron": "#FFF"
+    "--primary-btn-hover-bg-color": "#1E5189"
 }
