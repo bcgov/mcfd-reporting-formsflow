@@ -21,7 +21,7 @@
     "--default-font-size": "1rem",
     "--ff-primary": "#013366",
     "--ff-secondary": "#EDEBE9",
-    "--default-font-family-url": "https://raw.githubusercontent.com/bcgov/bc-sans/refs/heads/master/css/BC_Sans.css?family=BC+Sans",
+    "--default-font-family-url": "https://raw.githubusercontent.com/bcgov/bc-sans/refs/heads/master/css/BC_Sans.css",
     "--default-font-family": "BC Sans, sans-serif",
     "--hide-formsflow-logo": "true",
     "--custom-logo-horizontal-align": "center",
