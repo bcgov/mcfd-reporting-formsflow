@@ -1,4 +1,5 @@
 {
+    "--custom-logo-height": "3rem",
     "--navbar-active-submenu-bg-color": "#f6f9fc",
     "--navbar-active-submenu-font-color": "#2d2d2d",
     "--navbar-active-submenu-font-weight": "700",
@@ -11,7 +12,7 @@
     "--navbar-main-menu-active-bg-color": "#EDEBE9",
     "--navbar-main-menu-active-font-color": "#2D2D2D",
     "--navbar-bg-color": "#FFF",
-    "--custom-logo-path": "https://raw.githubusercontent.com/bcgov/mcfd-reporting-formsflow/refs/heads/main/assets/BCID_H_rgb_pos.png",
+    "--custom-logo-path": "https://raw.githubusercontent.com/bcgov/mcfd-reporting-formsflow/refs/heads/main/assets/BC_CFD_H_RGB_pos.png",
     "--custom-title": "MCFD Reporting",
     "--primary-btn-font-color": "white",
     "--primary-btn-bg-color": "#013366",
