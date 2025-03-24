@@ -16,7 +16,7 @@
     "--custom-title": "MCFD Reporting",
     "--primary-btn-font-color": "#FFF",
     "--primary-btn-bg-color": "#013366",
-    "--secondary-btn-font-color": "#FFF",
+    "--secondary-btn-font-color": "#474543",
     "--secondary-btn-bg-color": "#FFFFFF",
     "--default-font-color": "#2D2D2D",
     "--default-font-size": "1rem",
