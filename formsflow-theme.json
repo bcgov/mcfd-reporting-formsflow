@@ -12,7 +12,7 @@
     "--navbar-main-menu-active-bg-color": "#013366",
     "--navbar-main-menu-active-font-color": "#FFF",
     "--navbar-bg-color": "#013366",
-    "--custom-logo-path": "https://raw.githubusercontent.com/bcgov/mcfd-reporting-formsflow/refs/heads/main/assets/BC_CFD_H_RGB_pos_light_theme.png",
+    "--custom-logo-path": "https://raw.githubusercontent.com/bcgov/mcfd-reporting-formsflow/refs/heads/main/assets/BCID_H_rgb_rev_dark_theme.png",
     "--custom-title": "MCFD Reporting",
     "--primary-btn-font-color": "#FFF",
     "--primary-btn-bg-color": "#013366",
